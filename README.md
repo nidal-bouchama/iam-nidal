@@ -7,7 +7,7 @@
   <a href="https://x.com/Goat_nidal27"><img src="https://img.shields.io/badge/-@nidalbouchama-1DA1F2?style=flat-square&amp;labelColor=1DA1F2&amp;logo=Twitter&amp;link=https://twitter.com/nidalbouchama" alt="Twitter Badge"></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" style="color:white"/>
 
 <h2>⚡️ Quick Facts</h2>
 <ul>
